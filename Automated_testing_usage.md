@@ -1,6 +1,6 @@
 4.
 
-[go to Continuous_integration]
+[go to Continuous_integration](https://github.com/hkstone14/Team-Project-1/blob/master/Continuous_Integration_usage.md)
 
 # Usage of Automated Testing
 
