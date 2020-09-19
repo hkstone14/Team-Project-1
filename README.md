@@ -1,2 +1,2 @@
-*Sahil Patel
-*Harikrushna Patel
+* Sahil Patel
+* Harikrushna Patel
