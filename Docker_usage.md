@@ -23,4 +23,4 @@ By default each Docker container that’s running is isolated from the network, 
 4.Layered file system:
 Starting from a base image, every change you make to a container or image becomes a new layer in the file system. As a result, file system layers are cached, reducing the number of repetitive steps during the Docker build process AND reducing the time it takes to upload and download similar images.
 
-![Image of Docker](https://docs.docker.com/engine/images/engine-components-flow.png)
+![Image of Docker](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.docker.com%2Fget-started%2Foverview%2F&psig=AOvVaw0dQ6LO3Msczj3FFBYInSgz&ust=1600627194686000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDs1JDv9esCFQAAAAAdAAAAABAD)

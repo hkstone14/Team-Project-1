@@ -14,4 +14,4 @@ Git is a content version control system.It allows the users to keep multiple ver
  That means the code and config for developers, images and documents for designers. It’s a content version system for their working set.
  Critically, especially for developers, is that allows users to quickly switch context between the set of code they’re currently working with to any other branch or version, in a moment, with no fear of losing what their working on, and no fear of corrupting other versions. This is a significant time-saver.
  
- ![Git image](https://cdn.lynda.com/course/5030978/5030978-637342166568536954-16x9.jpg)
+ ![Image of Git](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Ffaun%2Fbeginners-guide-to-version-control-using-git-and-github-8bf44b421140&psig=AOvVaw0sJ_84cCdqL_3Ur6RVQkNZ&ust=1600628316045000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi4-ajz9esCFQAAAAAdAAAAABAE)
