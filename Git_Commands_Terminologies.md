@@ -66,12 +66,12 @@ when above command will execute,git will switch from current branch to feature b
 ![Image of git push and pull](https://static.javatpoint.com/tutorial/git/images/git-push.png)
 
 ## Remote add/remove/show
-1. git add
+* git add
  This command adds changes to Git's **Staging Area**, the contents of which can then be wrapped up in a new revision with the "git commit" command.
-2. git remove
+* git remove
  **git rm** command is used to remove a file from a Git repository.
  Command: ```git rm <file-name>```
-3. git show
+* git show
  git show command is used to show objects and objects can be blobs,trees,tags and commit.
 
 ## Status
