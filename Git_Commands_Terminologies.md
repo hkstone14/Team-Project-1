@@ -7,7 +7,7 @@
 There are various commands that Git provides but here are some basic git commands mentioned below.
 
 ## Repository
-This is a local place/hub on your machine where the entire snapshot of your project is stored. Every minor change is stored and retrievable. Repository logs can easily be viewed and retrieved, i.e, you can jump to any older state of your code.
+* This is a local place/hub on your machine where the entire snapshot of your project is stored. Every minor change is stored and retrievable. Repository logs can easily be viewed and retrieved, i.e, you can jump to any older state of your code.
 
 ## Clone
 * A clone is a working copy of a remote repository.
@@ -81,7 +81,7 @@ when above command will execute,git will switch from current branch to feature b
  ![Image of git status](https://miro.medium.com/max/1668/1*zLxE3Deuc2ePubedcXvlnQ.png)
     
 ## Master Branch
-A **branch in Git** is simply a lightweight movable pointer to one of these commits. The default **branch** name in **Git** is **master** . As you start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically
+* A **branch in Git** is simply a lightweight movable pointer to one of these commits. The default **branch** name in **Git** is **master** . As you start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically
     
 
     
