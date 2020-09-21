@@ -11,6 +11,7 @@
 ## Why use Docker?
 
 There are various reasons to use Docker.
+
 **1.** **Consistency:**
 Docker provides a consistent environment for your application from development all the way through production — you run from the same starting point every time.
 
