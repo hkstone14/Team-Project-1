@@ -6,7 +6,7 @@
 
 ## What is Docker?
 
-Docker is an open-source project that automates the development, deployment and running of applications inside isolated containers. Containers allow developers to bundle up an application with all of the parts it needs, such as libraries and other dependencies, and ship it as one package.
+**Docker** is an open-source project that automates the development, deployment and running of applications inside isolated containers. Containers allow developers to bundle up an application with all of the parts it needs, such as libraries and other dependencies, and ship it as one package.
 
 ## Why use Docker?
 
