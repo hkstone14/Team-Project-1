@@ -2,7 +2,7 @@
 
 [go to Docker Usage](https://github.com/hkstone14/Team-Project-1/blob/master/Docker_usage.md)
 
-# Git workflow
+# :point_right: Git workflow
 
 ## Initialize the central repository
 First, someone needs to create the central repository on a server. If it’s a new project, you can initialize an empty repository. Otherwise, you’ll need to import an existing Git repository.

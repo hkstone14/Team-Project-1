@@ -2,7 +2,7 @@
 
 [Go to the Git workflow](https://github.com/hkstone14/Team-Project-1/blob/master/Git_workflow.md)
 
-# Git commands and terminologies
+# :point_right: Git commands and terminologies
 
 There are various commands that Git provides but here are some basic git commands mentioned below.
 
