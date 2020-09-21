@@ -1,6 +1,6 @@
 5.
 
-# Usage of Continuous Integration
+# :point_right: Usage of Continuous Integration
 
 ## What is continuous integration?
 * Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project. The CI process is comprised of automatic tools that assert the new code’s correctness before integration. A source code version control system is the crux of the CI process. The version control system is also supplemented with other checks like automated code quality tests, syntax style review tools, and more. 
