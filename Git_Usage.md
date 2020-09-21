@@ -2,7 +2,7 @@
 
 [Go to the Git commands](https://github.com/hkstone14/Team-Project-1/blob/master/Git_Commands_Terminologies.md)                                           
 
-# Usage Of GIT
+# :point_right: Usage Of GIT
 
 ## What is GIT?
 

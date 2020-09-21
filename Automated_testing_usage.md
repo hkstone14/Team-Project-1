@@ -2,7 +2,7 @@
 
 [go to Continuous_integration](https://github.com/hkstone14/Team-Project-1/blob/master/Continuous_Integration_usage.md)
 
-# Usage of Automated Testing
+# :point_right: Usage of Automated Testing
 
 ## What is Automated testing?
 * Automated  Testing has a significant role in the lifecycle of software development. Unlike the traditional method of manual testing that is performed by humans and involves careful execution of the test steps, the Automation Testing utilizes automation tools to execute the test case suite. When the test suite is automated, it requires no further human intervention, which can have many advantages.
