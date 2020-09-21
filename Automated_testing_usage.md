@@ -12,7 +12,7 @@
 * A software application has to be tested each time before a new release. It means, be it a minor change such elementary bug fixes or significant modifications such as the addition of new features, the changes made have to be tested thoroughly. It also means, retained functionalities of the software from its previous releases also have to be tested.
 * However, when the number of versions of the application is few, and the total numbers of changes are not many, the process of manual testing can be carried out with ease. But, when the software application has gone through too many changes, then the total number of functionalities right from its first release can be too much to handle through manual testing. For this reason alone, automated testing can be the right option.
 
-There are some advantages of automated testing mentioned below.
+There are some **advantages** of automated testing mentioned below.
 1. Surge in productivity:
 By, using the automation testing mechanism, even the massive applications can be tested for accuracy with fewer resources and within the stipulated time, which can lead to an increase in the overall productivity.
 
