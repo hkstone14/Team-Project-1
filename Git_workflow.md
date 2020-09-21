@@ -1,6 +1,6 @@
 3.
 
-[go to Automated testing](https://github.com/hkstone14/Team-Project-1/blob/master/Automated_testing_usage.md)
+[go to Docker Usage](https://github.com/hkstone14/Team-Project-1/blob/master/Docker_usage.md)
 
 # Git workflow
 
