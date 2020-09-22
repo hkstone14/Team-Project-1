@@ -1,7 +1,7 @@
 ## Team members
 
-* Sahil Patel
-* Harikrushna Patel
+:man_office_worker: Sahil Patel
+:man_office_worker: Harikrushna Patel
 
 ## Project Index
 
@@ -16,3 +16,5 @@
 5. [Git Automated Testing Usage](https://github.com/hkstone14/Team-Project-1/blob/master/Automated_testing_usage.md)
 
 6. [Git Continuous Integration](https://github.com/hkstone14/Team-Project-1/blob/master/Continuous_Integration_usage.md)
+
+7. [Resources](https://github.com/hkstone14/Team-Project-1/blob/master/Resources.md)

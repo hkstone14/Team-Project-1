@@ -1,5 +1,7 @@
 5.
 
+[Go to Resources](https://github.com/hkstone14/Team-Project-1/blob/master/Resources.md)
+
 # :point_right: Usage of Continuous Integration
 
 ## What is continuous integration?
