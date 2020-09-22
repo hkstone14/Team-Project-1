@@ -1,4 +1,4 @@
-5.
+Page 6
 
 [Go to Resources](https://github.com/hkstone14/Team-Project-1/blob/master/Resources.md)
 

@@ -1,4 +1,4 @@
-2.
+Page 2
 
 [Go to the Git workflow](https://github.com/hkstone14/Team-Project-1/blob/master/Git_workflow.md)
 
