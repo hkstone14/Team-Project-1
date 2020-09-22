@@ -5,14 +5,23 @@ Page 1
 
 ## What is GIT?
 
-Git is a content version control system.It allows the users to keep multiple versions of a set of files and comfortably switch between versions and merge difference versions together.
+* Git is currently the most popular implementation of a distributed version control system.
+* Git originates from the Linux kernel development and was founded in 2005 by Linus Torvalds. Nowadays it is used by many popular open source projects, e.g., the Android or the Eclipse developer teams, as well as many commercial organizations.
+* The core of Git was originally written in the programming language C, but Git has also been re-implemented in other languages, e.g., Java, Ruby and Python.
 
-## Why Git is important?
+Git is an **Open Source Distributed Version Control System**. 
 
- Compared to the alternatives of Git, Git increases the productivity of your team members when they need to manage multiple versions of their stuff. 
- That means the code and config for developers, images and documents for designers. It’s a content version system for their working set.
- Critically, especially for developers, is that allows users to quickly switch context between the set of code they’re currently working with to any other branch or version, in a moment, with no fear of losing what their working on, and no fear of corrupting other versions. This is a significant time-saver.
- 
+## Control System:
+
+* This basically means that Git is a content tracker. So Git can be used to store content — it is mostly used to store code due to the other features it provides.
+
+## Version Control System:
+
+* The code which is stored in Git keeps changing as more code is added. Also, many developers can add code in parallel. So Version Control System helps in handling this by maintaining a history of what changes have happened. Also, Git provides features like branches and merges, which I will be covering later.
+
+## Distributed Version Control System:
+
+* Git has a remote repository which is stored in a server and a local repository which is stored in the computer of each developer. This means that the code is not just stored in a central server, but the full copy of the code is present in all the developers’ computers. Git is a Distributed Version Control System since the code is present in every developer’s computer.
 
 
 
