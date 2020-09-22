@@ -25,4 +25,4 @@ Unlike manual testing, the automated process is performed in a sequence by machi
 
 
 
-[Next](https://github.com/hkstone14/Team-Project-1/blob/master/Continuous_Integration_usage.md)
+## [Next](https://github.com/hkstone14/Team-Project-1/blob/master/Continuous_Integration_usage.md)

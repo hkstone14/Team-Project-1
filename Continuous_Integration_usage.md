@@ -16,4 +16,4 @@ Page 6
 
 
 
-[Next](https://github.com/hkstone14/Team-Project-1/blob/master/Resources.md)
+## [Next](https://github.com/hkstone14/Team-Project-1/blob/master/Resources.md)
