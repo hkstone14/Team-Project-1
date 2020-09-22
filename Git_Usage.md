@@ -14,7 +14,9 @@ Git is a content version control system.It allows the users to keep multiple ver
  Critically, especially for developers, is that allows users to quickly switch context between the set of code they’re currently working with to any other branch or version, in a moment, with no fear of losing what their working on, and no fear of corrupting other versions. This is a significant time-saver.
  
 
-->[:previous_track_button:](https://github.com/hkstone14/Team-Project-1/blob/master/README.md)
-[:arrow_backward:](https://github.com/hkstone14/Team-Project-1/blob/master/README.md)
-[:arrow_forward:](https://github.com/hkstone14/Team-Project-1/blob/master/Git_Commands_Terminologies.md)
-[:next_track_button:](https://github.com/hkstone14/Team-Project-1/blob/master/Resources.md)!<-
+
+
+###[previous ](https://github.com/hkstone14/Team-Project-1/blob/master/README.md)
+###[arrow_backward](https://github.com/hkstone14/Team-Project-1/blob/master/README.md)
+###[:arrow_forward:](https://github.com/hkstone14/Team-Project-1/blob/master/Git_Commands_Terminologies.md)
+###[:next_track_button:](https://github.com/hkstone14/Team-Project-1/blob/master/Resources.md)
