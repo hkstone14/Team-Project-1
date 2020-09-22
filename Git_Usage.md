@@ -27,7 +27,5 @@ Git is an **Open Source Distributed Version Control System**.
 
 
 
-##### [first](https://github.com/hkstone14/Team-Project-1/blob/master/README.md)
-##### [previous](https://github.com/hkstone14/Team-Project-1/blob/master/README.md)
-##### [next](https://github.com/hkstone14/Team-Project-1/blob/master/Git_Commands_Terminologies.md)
-##### [last](https://github.com/hkstone14/Team-Project-1/blob/master/Resources.md)
+## [:arrow_left:](https://github.com/hkstone14/Team-Project-1/blob/master/README.md)
+## [:arrow_right:](https://github.com/hkstone14/Team-Project-1/blob/master/Git_Commands_Terminologies.md)
