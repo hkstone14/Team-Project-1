@@ -16,7 +16,7 @@ Git is a content version control system.It allows the users to keep multiple ver
 
 
 
-### [previous ](https://github.com/hkstone14/Team-Project-1/blob/master/README.md)
-### [arrow_backward](https://github.com/hkstone14/Team-Project-1/blob/master/README.md)
-### [:arrow_forward:](https://github.com/hkstone14/Team-Project-1/blob/master/Git_Commands_Terminologies.md)
-### [:next_track_button:](https://github.com/hkstone14/Team-Project-1/blob/master/Resources.md)
+##### [first](https://github.com/hkstone14/Team-Project-1/blob/master/README.md)
+##### [previous](https://github.com/hkstone14/Team-Project-1/blob/master/README.md)
+##### [next](https://github.com/hkstone14/Team-Project-1/blob/master/Git_Commands_Terminologies.md)
+##### [last](https://github.com/hkstone14/Team-Project-1/blob/master/Resources.md)
