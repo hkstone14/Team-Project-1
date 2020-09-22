@@ -1,6 +1,5 @@
 Page 6
 
-[Go to Resources](https://github.com/hkstone14/Team-Project-1/blob/master/Resources.md)
 
 # :point_right: Usage of Continuous Integration
 
@@ -13,4 +12,8 @@ Page 6
 ## How CI can be used?
 * CI is generally used alongside an agile software development workflow. An organization will compile list of tasks that comprise a product roadmap. These tasks are then distributed amongst software engineering team members for delivery. Using CI enables these software development tasks to be developed independently and in parallel amongst the assigned developers. Once one of theses tasks is complete, a developer will introduce that new work to the CI system to be integrated with the rest of the project.
 
-![Image of CI](https://www.exoscale.com/static/syslog/2018-11-08-what-is-ci/what-is-continuous-integration.png)
+![Image of CI](https://www.exoscale.com/static/syslog/2018-11-08-what-is-ci/what-is-continuous-integration.png)[Go to Resources](https://github.com/hkstone14/Team-Project-1/blob/master/Resources.md)
+
+
+
+[Next](https://github.com/hkstone14/Team-Project-1/blob/master/Resources.md)
