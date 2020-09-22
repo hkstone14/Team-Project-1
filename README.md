@@ -1,6 +1,7 @@
 ## Team members
 
 :man_office_worker: Sahil Patel
+
 :man_office_worker: Harikrushna Patel
 
 ## Project Index
