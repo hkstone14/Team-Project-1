@@ -1,4 +1,4 @@
-1. 
+Page 1
 
 [Go to the Git commands](https://github.com/hkstone14/Team-Project-1/blob/master/Git_Commands_Terminologies.md)                                           
 

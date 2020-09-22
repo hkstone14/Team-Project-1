@@ -1,4 +1,4 @@
-3.
+Page 3
 
 [go to Docker Usage](https://github.com/hkstone14/Team-Project-1/blob/master/Docker_usage.md)
 
