@@ -1,4 +1,6 @@
+
 Page 3
+
 
 [go to Docker Usage](https://github.com/hkstone14/Team-Project-1/blob/master/Docker_usage.md)
 
@@ -12,7 +14,7 @@ First, someone needs to create the central repository on a server. If it’s a n
 * The process of initializing a bare repository discussed above is handled for you by the hosting service. 
 * The hosting service will then provide an address for the central repository to access from your local repository.
 
-##Clone Central Repository
+## Clone Central Repository
 * Next, each developer creates a local copy of the entire project. This is accomplished via the **git clone** command.
 * When you clone a repository, Git automatically adds a shortcut called origin that points back to the “parent” repository, under the assumption that you'll want to interact with it further on down the road. 
 
