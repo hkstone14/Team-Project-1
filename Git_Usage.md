@@ -23,6 +23,8 @@ Git is an **Open Source Distributed Version Control System**.
 
 * Git has a remote repository which is stored in a server and a local repository which is stored in the computer of each developer. This means that the code is not just stored in a central server, but the full copy of the code is present in all the developers’ computers. Git is a Distributed Version Control System since the code is present in every developer’s computer.
 
+![image for git usage](https://tekraze.com/wp-content/uploads/2018/01/git-and-the-importnace-of-version-control.gif)
+
 
 
 ##### [first](https://github.com/hkstone14/Team-Project-1/blob/master/README.md)
