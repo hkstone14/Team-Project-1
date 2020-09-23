@@ -1,6 +1,5 @@
 Page 4
 
-[Go to the Automated testing](https://github.com/hkstone14/Team-Project-1/blob/master/Automated_testing_usage.md)
 
 # :point_right: Usage of Docker
 
@@ -25,3 +24,7 @@ By default each Docker container that’s running is isolated from the network, 
 Starting from a base image, every change you make to a container or image becomes a new layer in the file system. As a result, file system layers are cached, reducing the number of repetitive steps during the Docker build process AND reducing the time it takes to upload and download similar images.
 
 ![Image of Docker](https://docs.docker.com/engine/images/engine-components-flow.png)
+
+
+
+## [Next](https://github.com/hkstone14/Team-Project-1/blob/master/Automated_testing_usage.md)

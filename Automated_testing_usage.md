@@ -1,6 +1,5 @@
 Page 5
 
-[go to Continuous_integration](https://github.com/hkstone14/Team-Project-1/blob/master/Continuous_Integration_usage.md)
 
 # :point_right: Usage of Automated Testing
 
@@ -23,3 +22,7 @@ Computers running high-quality testing tools are the bedrock of mechanization of
 Unlike manual testing, the automated process is performed in a sequence by machines at incredible speeds. As the process is carried out in a sequence, the chance of repeating a given task is almost negligible. It means, there is no scope for repetitive work, which can lead to an elimination of redundancy.
 
 ![Image of automated testing](https://bitbar.com/wp-content/uploads/old_testdroid/Screen-Shot-2013-10-15-at-3.14.04-PM.png)
+
+
+
+## [Next](https://github.com/hkstone14/Team-Project-1/blob/master/Continuous_Integration_usage.md)
