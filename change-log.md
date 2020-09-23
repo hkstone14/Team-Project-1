@@ -1,3 +1,7 @@
+
+Page 8
+
+
 # :point_right: Change Logs
 
 ![change_log1](https://user-images.githubusercontent.com/70822194/93951118-75284200-fd13-11ea-89a9-b8cab20180e8.PNG)
