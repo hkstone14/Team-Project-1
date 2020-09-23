@@ -19,3 +19,5 @@
 6. [Git Continuous Integration](https://github.com/hkstone14/Team-Project-1/blob/master/Continuous_Integration_usage.md)
 
 7. [Resources](https://github.com/hkstone14/Team-Project-1/blob/master/Resources.md)
+
+8. [Changelog](https://github.com/hkstone14/Team-Project-1/blob/master/change-log.md)

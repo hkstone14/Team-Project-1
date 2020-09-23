@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d208f67-2f29-477b-95cc-261060d97918" name="Default Changelist" comment="Task: more contern">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1d208f67-2f29-477b-95cc-261060d97918" name="Default Changelist" comment="Task: more content">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources.md" beforeDir="false" afterPath="$PROJECT_DIR$/Resources.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600543940388</updated>
-      <workItem from="1600543941704" duration="23937000" />
+      <workItem from="1600543941704" duration="24292000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Git commands and terms added">
       <created>1600545981376</created>
@@ -203,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600820927780</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Task: more content">
+      <created>1600821607436</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1600821607436</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,18 +239,19 @@
     <MESSAGE value="Task: page navigation link addded" />
     <MESSAGE value="Task: more content added" />
     <MESSAGE value="Task: more contern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: more contern" />
+    <MESSAGE value="Task: more content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: more content" />
   </component>
   <component name="WindowStateProjectService">
     <state x="437" y="187" key="#Notifications" timestamp="1600549461042">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="187" key="#Notifications/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1600549461042" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600820929328">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600821609121">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-1533" y="137" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600820542755" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1600820929328" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1600821609121" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600812473681">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
