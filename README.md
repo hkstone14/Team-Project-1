@@ -20,4 +20,4 @@
 
 7. [Resources](https://github.com/hkstone14/Team-Project-1/blob/master/Resources.md)
 
-8. [Changelog](https://github.com/hkstone14/Team-Project-1/blob/master/change-log.md)
+8. [Changelogs](https://github.com/hkstone14/Team-Project-1/blob/master/change-log.md)
