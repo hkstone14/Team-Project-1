@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d208f67-2f29-477b-95cc-261060d97918" name="Default Changelist" comment="Task: more contern">
+      <change afterPath="$PROJECT_DIR$/.idea/Team-Project-1_update.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/change-log.md" beforeDir="false" afterPath="$PROJECT_DIR$/change-log.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hk8swYS3oRG5aswV6vcCgOp00m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d208f67-2f29-477b-95cc-261060d97918" name="Default Changelist" comment="" />
+      <created>1600543940388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600543940388</updated>
+      <workItem from="1600543941704" duration="22843000" />
+    </task>
+    <task id="LOCAL-00001" summary="Feature: Git commands and terms added">
+      <created>1600545981376</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600545981376</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task: format update added">
+      <created>1600547721082</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600547721082</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Feature: more git terms added">
+      <created>1600551677421</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600551677421</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Feature: continuous integration content added">
+      <created>1600643304501</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600643304501</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task: code format added">
+      <created>1600644878443</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600644878443</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task: code format added for commands">
+      <created>1600645242334</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600645242334</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Task: code format added for commands">
+      <created>1600645470492</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600645470492</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Task: code format added for commands">
+      <created>1600645668931</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600645668931</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Task: code format added for commands">
+      <created>1600645799644</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600645799644</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Task: docker image added">
+      <created>1600648905864</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600648905864</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Task: page navigation link addded">
+      <created>1600812755276</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600812755276</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Task: page navigation link addded">
+      <created>1600812827501</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600812827501</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Task: page navigation link addded">
+      <created>1600813115850</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600813115850</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Task: more content added">
+      <created>1600814268900</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1600814268900</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Task: more content added">
+      <created>1600814555577</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1600814555577</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Task: more content added">
+      <created>1600815202042</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1600815202042</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Task: more content added">
+      <created>1600815926458</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1600815926458</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Task: more content added">
+      <created>1600818491077</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1600818491077</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feature: Git commands and terms added" />
+    <MESSAGE value="Task: format update added" />
+    <MESSAGE value="Feature: more git terms added" />
+    <MESSAGE value="Feature: continuous integration content added" />
+    <MESSAGE value="Task: code format added" />
+    <MESSAGE value="Task: code format added for commands" />
+    <MESSAGE value="Task: docker image added" />
+    <MESSAGE value="Task: page navigation link addded" />
+    <MESSAGE value="Task: more content added" />
+    <MESSAGE value="Task: more contern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: more contern" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="187" key="#Notifications" timestamp="1600549461042">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="187" key="#Notifications/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1600549461042" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600818493291">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1600818493291" />
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600812473681">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1600812473681" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1600548564410">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1600548564410" />
+  </component>
+</project>
